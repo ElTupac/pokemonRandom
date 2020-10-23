@@ -1,0 +1,21 @@
+div{
+    display: inline-block;
+}
+
+p{
+    text-align: center;
+}
+
+#pokebtn{
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    text-decoration: none;
+    background-color: lightblue;
+    color: black;
+    padding: 10px 15px;
+}
+
+#pokebtn:hover{
+    background-color: lightseagreen;
+}
